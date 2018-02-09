@@ -1,1 +1,2 @@
-Em dic sebi, no ho canvieu, ala, canviat
+Em dic sebi, no ho canvieu
+pos si
